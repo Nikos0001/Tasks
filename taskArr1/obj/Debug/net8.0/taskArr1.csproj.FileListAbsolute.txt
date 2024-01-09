@@ -1,0 +1,15 @@
+C:\project\Task\taskArr1\bin\Debug\net8.0\taskArr1.exe
+C:\project\Task\taskArr1\bin\Debug\net8.0\taskArr1.deps.json
+C:\project\Task\taskArr1\bin\Debug\net8.0\taskArr1.runtimeconfig.json
+C:\project\Task\taskArr1\bin\Debug\net8.0\taskArr1.dll
+C:\project\Task\taskArr1\bin\Debug\net8.0\taskArr1.pdb
+C:\project\Task\taskArr1\obj\Debug\net8.0\taskArr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\Task\taskArr1\obj\Debug\net8.0\taskArr1.AssemblyInfoInputs.cache
+C:\project\Task\taskArr1\obj\Debug\net8.0\taskArr1.AssemblyInfo.cs
+C:\project\Task\taskArr1\obj\Debug\net8.0\taskArr1.csproj.CoreCompileInputs.cache
+C:\project\Task\taskArr1\obj\Debug\net8.0\taskArr1.sourcelink.json
+C:\project\Task\taskArr1\obj\Debug\net8.0\taskArr1.dll
+C:\project\Task\taskArr1\obj\Debug\net8.0\refint\taskArr1.dll
+C:\project\Task\taskArr1\obj\Debug\net8.0\taskArr1.pdb
+C:\project\Task\taskArr1\obj\Debug\net8.0\taskArr1.genruntimeconfig.cache
+C:\project\Task\taskArr1\obj\Debug\net8.0\ref\taskArr1.dll
